@@ -1,4 +1,4 @@
-# 📝 Notes App
+# 📝 Notes App  :- noteflow
 
 A modern and responsive Notes App built with **React**. Easily create, edit, search, pin, favorite, and organize your notes with a clean and intuitive interface.
 
