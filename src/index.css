@@ -1,0 +1,7 @@
+@import "tailwindcss";
+
+* { box-sizing: border-box; }
+html { background: #10101c; }
+body { margin: 0; min-width: 320px; }
+button, input, textarea { font: inherit; }
+button { cursor: pointer; }
