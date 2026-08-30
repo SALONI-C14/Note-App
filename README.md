@@ -28,23 +28,26 @@ npm run dev
 
 ## 📸 Screenshots
 
-### ➕ Home page
+### ➕ Home Page
 ![Add Note](screenshot/home.png)
 
 ### 📋 All Notes
-![All Notes](screenshots/allnotes.png)
+![All Notes](screenshot/allnote.jped)
+
+### 🔍 Add Notes
+![Search](screenshot/addnote.png)
 
 ### 🔍 Search Notes
-![Search](screenshots/search.png)
+![Search](screenshot/searchnote.png)
 
 ### 🎨 Theme Toggle
-![Theme](screenshots/theme.png)
-
-### 💻 Desktop View
-![Desktop](screenshots/medium.png)
+![Theme](screenshot/theme.jpeg)
 
 ### 📱 Mobile View
-![Mobile](screenshots/mobile.png)
+![Mobile](screenshot/mobile1.png)
+![Mobile](screenshot/mobile2.png)
+![Mobile](screenshot/allnotem.png)
+
 
 ## 📄 License
 
