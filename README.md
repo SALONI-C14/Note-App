@@ -32,7 +32,7 @@ npm run dev
 ![Add Note](screenshot/home.png)
 
 ### 📋 All Notes
-![All Notes](screenshot/allnote.jped)
+![All Notes](screenshot/allnote.jpeg)
 
 ### 🔍 Add Notes
 ![Search](screenshot/addnote.png)
