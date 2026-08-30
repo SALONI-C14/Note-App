@@ -28,8 +28,8 @@ npm run dev
 
 ## 📸 Screenshots
 
-### ➕ Add Note
-![Add Note](screenshots/add.png)
+### ➕ Home page
+![Add Note](screenshot/home.png)
 
 ### 📋 All Notes
 ![All Notes](screenshots/allnotes.png)
